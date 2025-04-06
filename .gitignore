@@ -3,7 +3,7 @@ chatbotenv
 .env
 model/llama-2-7b-chat.ggmlv3.q4_0.bin
 data/book.pdf
-
+experiments/cabundle.pem
 
 
 # Byte-compiled / optimized / DLL files
