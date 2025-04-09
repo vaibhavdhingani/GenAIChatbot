@@ -4,6 +4,7 @@ pinecone
 pinecone-client
 langchain
 langchain-community
+langchain_pinecone
 flask
 pypdf
 python-dotenv
