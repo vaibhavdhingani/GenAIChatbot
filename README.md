@@ -53,6 +53,7 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 python store_index.py
 python app.py
 ```
+_[This repo has been verified with Python 3.12.5. I have seen few package compilation issues with higher version on Python.]_
 
 
 ### Step-7 : Execute the GenAI Chatbot:
