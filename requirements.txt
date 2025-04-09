@@ -1,5 +1,6 @@
 ctransformers
 sentence-transformers
+pinecone
 pinecone-client
 langchain
 langchain-community
