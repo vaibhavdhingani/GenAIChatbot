@@ -41,18 +41,26 @@ https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
 
-### Step-5 : Execute the python files:
+### Step-5 : Add your pdf content(book, news, article) files which you want to feed to llm in '/data' folder:
+```bash
+/data/book.pdf or
+/data/article.pdf
+```
+
+
+### Step-6 : Execute the python files:
 ```bash
 python store_index.py
 python app.py
 ```
 
 
-### Step-6 : Execute the GenAI Chatbot:
+### Step-7 : Execute the GenAI Chatbot:
 ```bash
 ## Open localhost
 open http://localhost:8080/
 ```
+
 
 ![Alt text](static/images/GenAIChatbotAgent_example.png)
 
