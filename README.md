@@ -60,6 +60,7 @@ _[This repo has been verified with Python 3.12.5. I have seen few package compil
 ```bash
 ## Open localhost
 open http://localhost:8080/
+open http://127.0.0.1:8080/
 ```
 
 
