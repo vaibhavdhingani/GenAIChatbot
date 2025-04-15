@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/vaibhavdhingani/GenAIChatbot.git
+Project repo: https://github.com/vaibhavdhingani/genaichatbot_langchain_pinecone_llama2.git
 ```
 
 ### Step-1 : Create a python environment after opening the repository
